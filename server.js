@@ -14,7 +14,7 @@ const db = knex({
     connection: {
       host : 'postgresql-animate-27060',
       user : 'postgres',
-      password : 'root',
+      password : '',
       database : 'facereg'
     }
   })
